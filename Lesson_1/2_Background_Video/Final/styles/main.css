@@ -1,0 +1,20 @@
+/********************************************************
+    VIDEO BACKGROUND        VIDEO BACKGROUND
+*********************************************************/
+
+
+  section#hero {
+    z-index: 2;
+    position: relative;
+    height: 100%;
+  }
+
+  .video-wrap {
+    height: 100%;
+    overflow: hidden;
+  }
+
+  video {
+    width: 100%;
+  }
+
