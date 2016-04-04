@@ -1,0 +1,15 @@
+/********************************************************
+    PARALLAX        PARALLAX
+*********************************************************/
+
+section#parallax {
+  height: 200vh;
+}
+
+.parallax-container {
+  height: 50vh;
+  margin-top: 25vh;
+  background: url('../images/1.jpg');
+  background-position: center;
+  background-attachment: fixed;
+}
